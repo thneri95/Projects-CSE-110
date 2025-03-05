@@ -1,4 +1,4 @@
-CS-110 is the first course of my Bachelor's Degree in Software Development at Byu-Idaho.
+CSE-110 is the first course of my Bachelor's Degree in Software Development at Byu-Idaho.
 
 In this course, I tried to learn more and more about Python. Each week we had to create a new program and improve our skills based on the content previously taught.
 
